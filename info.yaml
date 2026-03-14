@@ -3,7 +3,7 @@
 project:
   title:        "Cat VGA"      # Project title
   author:       "5482582"      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  discord:      "5482582"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Bouncing Cat VGA Screensaver"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25175000       # Clock frequency in Hz (or 0 if not applicable)
