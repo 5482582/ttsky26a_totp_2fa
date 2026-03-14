@@ -8,12 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+Currently just a bouncing cat on VGA.
+Plan to have SPI interface time and encrypted key for ASIC to decrypt and reply with TOTP code.
 
 ## How to test
-
-Explain how to use your project
+No hardware yet.
 
 ## External hardware
 
