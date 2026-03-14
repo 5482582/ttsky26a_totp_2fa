@@ -1,10 +1,10 @@
-
+﻿
 # Tiny Tapeout project information
 project:
-  title:        "TOTP 2FA"      # Project title
+  title:        "Cat VGA"      # Project title
   author:       "5482582"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "TOTP 2FA via SPI (currently still a bouncing cat logo). Completing as part of Tiny Tapeout Workshop during Down Underflow 2026."      # One line description of what your project does
+  description:  "Bouncing Cat VGA Screensaver"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25175000       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -18,8 +18,8 @@ project:
   source_files:
     - "project.v"
     - "hvsync_generator.v"
-    - "palette.v"
     - "bitmap_rom.v"
+    - "palette.v"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
