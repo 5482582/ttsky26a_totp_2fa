@@ -1,7 +1,6 @@
 /*
  * Copyright (c) 2024 Tiny Tapeout LTD
  * SPDX-License-Identifier: Apache-2.0
- * Author: Uri Shaked
  */
 
 `default_nettype none
@@ -73,8 +72,8 @@ module tt_um_5482582_cat_vga (
   wire logo_pixels = cfg_tile || (x[9:7] == 0 && y[9:7] == 0);
 
   bitmap_rom rom1 (
-      .x(x[6:0]),
-      .y(y[6:0]),
+      .x(x[6:1]),
+      .y(y[6:1]),
       .pixel(pixel_value)
   );
 
