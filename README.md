@@ -1,7 +1,9 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+# Cat VGA
+This was created as part of the Tiny Tapeout Workshop at FOSSi Down Underflow 2026, and sponsored by IQonIC Works Pty Ltd <https://iqonicworks.com>
 
+#
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
